@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krimsoncat
-- 🌱 I’m currently learning Python and Javascript and know HTMl and CSS.
+- 🌱 I’m currently learning Python and Javascript and at the moment, I know HTML and CSS.
 - 💞️ I am looking to learn more and more about computer science and programming!
 <!---
 - 👀 I’m interested in ...
